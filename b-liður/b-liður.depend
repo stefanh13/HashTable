@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1394155524 source:c:\users\stefán\desktop\hr\v-2014\gagnaskipan\skilaverkefni\verkefni 4\b-liğur\contact.cpp
+	"Contact.h"
+
+1394155524 c:\users\stefán\desktop\hr\v-2014\gagnaskipan\skilaverkefni\verkefni 4\b-liğur\contact.h
+	<string>
+	<iostream>
+	<vector>
+
+1394155840 source:c:\users\stefán\desktop\hr\v-2014\gagnaskipan\skilaverkefni\verkefni 4\b-liğur\contactmanager.cpp
+	<algorithm>
+	"ContactManager.h"
+
+1394155524 c:\users\stefán\desktop\hr\v-2014\gagnaskipan\skilaverkefni\verkefni 4\b-liğur\contactmanager.h
+	"StringContactMap.h"
+
+1395134151 c:\users\stefán\desktop\hr\v-2014\gagnaskipan\skilaverkefni\verkefni 4\b-liğur\stringcontactmap.h
+	<iostream>
+	<string>
+	<vector>
+	"ContactList.h"
+	"KeyException.h"
+
+1394155826 c:\users\stefán\desktop\hr\v-2014\gagnaskipan\skilaverkefni\verkefni 4\b-liğur\contactlist.h
+	<iostream>
+	<vector>
+	"ContactNode.h"
+	"KeyException.h"
+
+1394155524 c:\users\stefán\desktop\hr\v-2014\gagnaskipan\skilaverkefni\verkefni 4\b-liğur\contactnode.h
+	<iostream>
+	<string>
+	<vector>
+	"Contact.h"
+
+1394155950 c:\users\stefán\desktop\hr\v-2014\gagnaskipan\skilaverkefni\verkefni 4\b-liğur\keyexception.h
+
+1394155866 source:c:\users\stefán\desktop\hr\v-2014\gagnaskipan\skilaverkefni\verkefni 4\b-liğur\contactnode.cpp
+	"ContactNode.h"
+
+1395134485 source:c:\users\stefán\desktop\hr\v-2014\gagnaskipan\skilaverkefni\verkefni 4\b-liğur\hash.cpp
+	"Hash.h"
+
+1394155524 c:\users\stefán\desktop\hr\v-2014\gagnaskipan\skilaverkefni\verkefni 4\b-liğur\hash.h
+	<string>
+
+1394155524 source:c:\users\stefán\desktop\hr\v-2014\gagnaskipan\skilaverkefni\verkefni 4\b-liğur\interactivephonebook.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	"InteractivePhoneBook.h"
+
+1394155524 c:\users\stefán\desktop\hr\v-2014\gagnaskipan\skilaverkefni\verkefni 4\b-liğur\interactivephonebook.h
+	"ContactManager.h"
+
+1394155524 source:c:\users\stefán\desktop\hr\v-2014\gagnaskipan\skilaverkefni\verkefni 4\b-liğur\main.cpp
+	<iostream>
+	"InteractivePhoneBook.h"
+
+1395225563 source:c:\users\stefán\desktop\hr\v-2014\gagnaskipan\skilaverkefni\verkefni 4\b-liğur\stringcontactmap.cpp
+	"StringContactMap.h"
+	"Hash.h"
+	<algorithm>
+
+1395134354 source:c:\users\stefán\desktop\hr\v-2014\gagnaskipan\skilaverkefni\verkefni 4\b-liğur\contactlist.cpp
+	"ContactList.h"
+
